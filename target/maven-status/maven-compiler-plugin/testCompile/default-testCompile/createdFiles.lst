@@ -1,0 +1,6 @@
+stepDefinitions\DesktopPage.class
+stepDefinitions\initializer.class
+runner\testRunnner.class
+stepDefinitions\RetailPage.class
+stepDefinitions\Homepage.class
+stepDefinitions\LabtopAndNoteBook.class
