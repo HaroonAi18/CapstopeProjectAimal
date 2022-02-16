@@ -24,6 +24,9 @@ public class baseC {
 	private String propertiesPath = "C:\\Users\\Mharo\\eclipse-workspaceVersion2\\HaroonCapstone\\src\\test\\resources\\input\\properties.properties";
 	private String log4jPath = "C:\\Users\\Mharo\\eclipse-workspaceVersion2\\HaroonCapstone\\src\\test\\resources\\input\\log4j.properties";
 	
+	//Typed in git hub or from git hugf************************************
+	
+	
 	@SuppressWarnings("static-access")
 	public baseC()
 	{
